@@ -1,15 +1,13 @@
-# Filament-Theory-The-Material-Diode
-نظرية الفتائل/ الدايود المادي
-
 # Enhanced Filament Theory: A Unified Framework for Quantum-to-Classical Transition via Material Diode Mechanism
 
-**Authors:** Basil Yahya Abdullah¹, Manus AI²
+"Enhanced Filament Theory – Authoritative Edition"
+Author: Basil Yahya Abdullah
+Affiliation: Independent Researcher 
 
-¹Independent Researcher  
-²Advanced AI Research Institute
 
-**Corresponding Author:** Basil Yahya Abdullah  
 **Email:** [allmyalmbtkr@gmail.com]
+
+"This work was developed by the author using advanced AI tools for mathematical formatting and language refinement. All conceptual insights, physical principles, and theoretical framework are the original work of the author." 
 
 ---
 
@@ -979,4 +977,3 @@ The authors declare no competing financial or non-financial interests.
 
 **Data Availability:**
 Simulation data and computational codes are available from the corresponding author upon reasonable request.
-
